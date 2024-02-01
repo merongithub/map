@@ -48,7 +48,7 @@ server.port=8080
 ### Example of Geometry Object 
 
 {
-  "name": "Meron",
+  "name": "Victoria",
   "type": "Cafe",
   "geometry":{ "type": "Point", "coordinates": [-125.00, -90.00] }
 }
